@@ -1,4 +1,3 @@
-//Gaby Inchoco, Hannah Whellan, Jacquelyn Cai
 //Return of Blockbuster!
 
 import java.io.IOException;
