@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CategoryDecisions
+comment0.text=\n\ CategoryDecision\ contains\ the\ decision\ tree\ to\ help\ the\ user\ \n\ decide\ what\ category\ of\ movies\ to\ play\ in.\n\n\ @author\ Jacquelyn\ Cai\n\ @version\ 5/16/19\n
+comment1.params=
+comment1.target=CategoryDecisions()
+comment1.text=\n\ Constructor\:\ Creates\ the\ decision\ tree\n
+comment2.params=
+comment2.target=javafoundations.LinkedBinaryTree\ getCurrent()
+comment2.text=\n\ Gets\ the\ current\ linked\ binary\ tree\n\ \n\ @return\ LinkedBinaryTree<String>\ the\ current\ LBT\n
+comment3.params=
+comment3.target=javafoundations.LinkedBinaryTree\ getTree()
+comment3.text=\n\ Returns\ the\ entire\ tree\n\ \n\ @return\ LinkedBinaryTree<String>\ the\ tree\n
+comment4.params=
+comment4.target=void\ yesPressed()
+comment4.text=\n\ If\ "yes"\ is\ selected,\ access\ the\ right\ of\ the\ tree\n
+comment5.params=
+comment5.target=void\ noPressed()
+comment5.text=\n\ If\ "no"\ is\ selected,\ access\ the\ left\ of\ the\ tree\n
+comment6.params=
+comment6.target=java.lang.String\ getQuestion()
+comment6.text=\n\ Returns\ the\ element\ at\ the\ current\ node\ of\ the\ tree\n\ \n\ @return\ String\ the\ current\ element\ \n
+numComments=7

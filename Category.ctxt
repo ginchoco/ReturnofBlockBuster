@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Category
+comment0.text=\n\ Category\ class\ maintains\ a\ collection\ of\ Movies.\n\n\ @\ Gaby\ Inchoco\ and\ Hannah\ Whellan\n\ @version\ April\ 30,\ 2019\n
+comment1.params=titleFile
+comment1.target=Category(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Category\n
+comment2.params=
+comment2.target=java.util.Hashtable\ getCategoryHT()
+comment2.text=\n\ Returns\ the\ category\ hashtable\ of\ linked\ lists\ with\ all\ the\ movies\ in\ one\ category\n\ \n\ @return\ hashtable\ the\ hashtbale\ \n
+comment3.params=category
+comment3.target=java.util.LinkedList\ getSeries(java.lang.String)
+comment3.text=\n\ Returns\ the\ series\ of\ movies\ that\ are\ in\ a\ category\n\ \n\ @return\ LinkedList<Movie>\ the\ list\ of\ all\ the\ movies\ in\ the\ category\n
+comment4.params=category
+comment4.target=java.lang.String\ getMostUsedCharacter(java.lang.String)
+comment4.text=\n\ Returns\ the\ character\ that\ speaks\ the\ most\ throughout\ the\ series\n\ \n\ @return\ the\ chracter\ name\ who\ speaks\ the\ most\ in\ the\ category\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ the\ formatted\ string\ representation\ of\ a\ category\ object\n\n\ @return\ String\ the\ formatted\ string\ representation\ of\ a\ category\ object\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ Main\ method\ to\ test\ all\ of\ the\ methods\ in\ the\ class\n
+numComments=7

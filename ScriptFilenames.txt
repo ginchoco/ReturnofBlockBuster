@@ -1,0 +1,24 @@
+Script_Star Wars_ A New Hope.txt
+Script_Lord of the Rings_ Fellowship of the Ring.txt
+Script_Star Wars_ Attack of the Clones.txt
+Script_Lord of the Rings_ Return of the King.txt
+Script_Lord of the Rings_ The Two Towers.txt
+Script_Aladdin.txt
+Script_Cars 2.txt
+Script_Frozen.txt
+Script_How to Train Your Dragon 2.txt
+Script_How to Train Your Dragon.txt
+Script_Kung Fu Panda.txt
+Script_Shrek.txt
+Script_Star Trek II_ The Wrath of Khan.txt
+Script_Star Trek_ First Contact.txt
+Script_Star Trek_ Generations.txt
+Script_Star Trek.txt
+Script_Toy Story.txt
+Script_Wall-E.txt
+Script_Indiana Jones and the Kingdom of the Crystal Skull.txt
+Script_Indiana Jones and the Last Crusade.txt
+Script_Indiana Jones and the Raiders of the Lost Ark.txt
+Script_Indiana Jones and the Temple of Doom.txt
+Script_Star Wars_ Return of the Jedi.txt
+Script_Star Wars_ The Force Awakens.txt

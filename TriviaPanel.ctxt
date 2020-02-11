@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TriviaPanel
+comment0.text=\n\ Contains\ the\ components,\ events,\ and\ actions\ of\ the\ GUI\n\n\ @author\ Jacquelyn\ Cai\n\ @version\ 5/16/19\n
+comment1.params=c
+comment1.target=TriviaPanel(CategoryDecisions)
+comment1.text=\n\ Sets\ up\ various\ buttons,\ panels,\ and\ other\ components\n\ \n\ @param\ CategoryDecisions\ object\ for\ the\ decision\ tree\n
+numComments=2

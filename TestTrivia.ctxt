@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestTrivia
+comment0.text=\n\ Driver\ class\ that\ sets\ up\ the\ frame\ and\ adds\ the\ panel.\n\ At\ the\ end\ of\ the\ game,\ the\ user\ will\ be\ able\ to\ see\ how\ well\ they\ did\ \n\ based\ on\ the\ number\ of\ points\ they\ received.\n\n\ @author\ Jacquelyn\ Cai\n\ @version\ 5/16/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Driver\ class\ that\ sets\ up\ the\ frame\ for\ the\ GUI\n
+numComments=2
